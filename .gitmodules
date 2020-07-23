@@ -1,0 +1,3 @@
+[submodule "singulardtv-tokitio-contracts"]
+	path = singulardtv-tokitio-contracts
+	url = git@github.com:Digital-Mob/singulardtv-tokitio-contracts.git
